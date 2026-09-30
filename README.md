@@ -1,187 +1,187 @@
 # 👋 ¡Hola! Soy David Cantero García
 
-### 💻 Estudiante de Desarrollo de Aplicaciones Web
+### 💻 Futuro desarrollador web | 🎓 Estudiante de Desarrollo de Aplicaciones Web
 
-![CodingGIF](https://github.com/user-attachments/assets/e13c32ca-1fc5-4f31-a566-afe9539b0dd6)
-
-> 🎓 Aprendiendo a crear aplicaciones web, programar y trabajar con bases de datos.
-> 🚀 Cada proyecto es una oportunidad para aprender algo nuevo.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e13c32ca-1fc5-4f31-a566-afe9539b0dd6" width="500">
+</p>
 
 ---
 
-# 🧑‍💻 Sobre mí
+## 🧑‍💻 Conóceme mejor
 
 ¡Hola! Soy **David Cantero García** y actualmente estoy estudiando un **Grado Superior de Desarrollo de Aplicaciones Web (DAW)**.
 
-Me interesa el mundo de la programación y el desarrollo web. Actualmente estoy aprendiendo tanto **frontend como backend**, además de trabajar con bases de datos, WordPress y herramientas de desarrollo.
+Estoy aprendiendo diferentes tecnologías relacionadas con el desarrollo web, programación, bases de datos y despliegue de aplicaciones.
 
-Aunque todavía estoy empezando, me gusta experimentar, crear proyectos y entender cómo funcionan las cosas por dentro.
+Mi objetivo es seguir mejorando mis conocimientos creando proyectos y aprendiendo nuevas herramientas poco a poco. 🚀
 
 ---
 
-# 🌐 Desarrollo Web
+## 🌐 Desarrollo Web
 
-Actualmente estoy trabajando principalmente con:
+Una de las áreas que más estoy trabajando es el **desarrollo frontend**.
 
-### 🧱 HTML · 🎨 CSS · ⚡ JavaScript
+Tengo conocimientos de:
 
-He creado diferentes páginas web utilizando HTML y CSS, trabajando con:
+### 🧱 HTML
 
-* Estructura y semántica HTML.
+* Estructuración de páginas web.
+* Creación de formularios.
 * Enlaces entre páginas.
-* Imágenes y contenido multimedia.
-* Formularios.
-* Colores, fuentes y estilos.
-* Clases e identificadores.
+* Inserción de imágenes y contenido multimedia.
+* Uso de etiquetas semánticas.
+* Organización del contenido mediante listas, tablas, secciones, etc.
+
+### 🎨 CSS
+
+* Colores y tipografías.
+* Márgenes, padding y bordes.
+* Selectores y clases.
+* Diseño de elementos.
 * Flexbox.
+* Posicionamiento.
 * Diseño responsive básico.
+* Creación de interfaces más atractivas.
 
-También estoy empezando con **JavaScript**, aprendiendo a añadir interactividad a las páginas:
+### ⚡ JavaScript
 
-* Variables.
+También estoy empezando a trabajar con **JavaScript** para añadir interactividad a las páginas web.
+
+He trabajado con conceptos como:
+
+* Variables y tipos de datos.
+* Operadores.
 * Condicionales.
 * Bucles.
 * Funciones.
 * Arrays.
-* Eventos.
 * Manipulación básica del DOM.
-* Formularios.
+* Eventos.
+* Interacción con formularios.
 
 ![CoolWebsiteBroImpressedGIF](https://github.com/user-attachments/assets/b298894d-3445-4f06-a34d-229a326d5405)
 
 ---
 
-# ☕ Java
+## ☕ Java
 
-En Java estoy construyendo mis bases de programación y aprendiendo a desarrollar la lógica necesaria para crear programas.
+En **Java** estoy desarrollando mis bases de programación y lógica.
 
 Actualmente trabajo con:
 
-```text
-Variables
-Tipos de datos
-Entrada de datos
-Operadores
-Condicionales
-Switch
-Bucles
-Arrays
-Métodos
-Programación orientada a objetos
-```
+* Variables y tipos de datos.
+* Entrada de datos por teclado.
+* Operadores y cálculos.
+* Condicionales `if / else`.
+* Estructuras `switch`.
+* Bucles `for`, `while` y `do while`.
+* Arrays.
+* Métodos y funciones.
+* Programación orientada a objetos a nivel introductorio.
 
-Poco a poco estoy pasando de programas sencillos a ejercicios más completos.
+Mi objetivo es seguir mejorando mi lógica de programación y aprender a crear programas cada vez más completos.
 
 ![ProgrammLoadingInProgressGIF](https://github.com/user-attachments/assets/aaf4ad42-3b93-4fae-8b30-c3ac3bc05e62)
 
 ---
 
-# 🐘 PHP
+## 🐘 PHP
 
-También estoy empezando a trabajar con **PHP**, especialmente orientado al desarrollo backend.
+También estoy dando mis primeros pasos con **PHP**, especialmente enfocado al desarrollo web.
 
-Estoy aprendiendo:
+He trabajado con conceptos como:
 
-* Variables y tipos de datos.
-* Condicionales y bucles.
+* Variables.
+* Tipos de datos.
+* Condicionales.
+* Bucles.
 * Funciones.
-* Formularios.
-* Procesamiento de datos.
+* Formularios HTML.
+* Recogida y procesamiento de datos.
 * Conexión básica con bases de datos.
-* Integración de PHP con páginas HTML.
 
-Mi objetivo es poder conectar poco a poco el **frontend con el backend** y crear aplicaciones web más completas.
+Estoy aprendiendo a entender cómo funciona la parte **backend** de una aplicación web y cómo se comunica con el frontend.
 
 ---
 
-# 🐍 Python
+## 🐍 Python
 
-También tengo conocimientos iniciales de **Python**.
+También tengo conocimientos básicos de **Python**.
 
 He trabajado con:
 
 * Variables.
+* Tipos de datos.
 * Condicionales.
 * Bucles.
 * Listas.
 * Funciones.
 * Entrada y salida de datos.
-* Ejercicios de lógica y pequeños programas.
+* Programas sencillos para practicar lógica de programación.
 
-🐍 Es una tecnología que quiero seguir explorando mientras avanzo en el ciclo.
+Python es una de las tecnologías que quiero seguir explorando y utilizar en proyectos futuros.
 
 ---
 
-# 🗄️ MySQL
+# 🗄️ Bases de datos — MySQL
 
-Una parte importante de DAW son las **bases de datos**, y actualmente estoy trabajando con **MySQL**.
+Durante el ciclo también estoy trabajando con **MySQL** y conceptos fundamentales de bases de datos relacionales.
 
-He aprendido conceptos como:
+Tengo conocimientos sobre:
 
-### 📦 Bases de datos
-
-* Crear bases de datos.
-* Crear, modificar y eliminar tablas.
+* Creación de bases de datos.
+* Creación y modificación de tablas.
 * Tipos de datos.
 * Claves primarias.
 * Claves foráneas.
 * Relaciones entre tablas.
+* `INSERT`
+* `SELECT`
+* `UPDATE`
+* `DELETE`
+* `WHERE`
+* `ORDER BY`
+* `GROUP BY`
+* `JOIN`
+* Consultas con varias tablas.
+* Organización y diseño básico de bases de datos.
 
-### 🔎 Consultas SQL
+También he realizado ejercicios creando pequeñas bases de datos y realizando consultas para obtener y modificar información.
 
 ```sql
-SELECT * FROM alumnos;
-
 SELECT nombre, apellidos
 FROM alumnos
-WHERE curso = 'DAW';
-
-UPDATE alumnos
-SET curso = 'DAW2'
-WHERE id = 1;
-
-DELETE FROM alumnos
-WHERE id = 1;
+WHERE curso = 'DAW'
+ORDER BY apellidos;
 ```
 
-También estoy trabajando con:
-
-```text
-SELECT
-WHERE
-ORDER BY
-GROUP BY
-INSERT
-UPDATE
-DELETE
-JOIN
-```
-
-Esto me está ayudando a entender cómo almacenar, relacionar y consultar información para utilizarla posteriormente en aplicaciones.
+🧠 Una de las cosas que más me está ayudando es aprender a relacionar **programación + bases de datos + desarrollo web** para crear aplicaciones más completas.
 
 ---
 
-# 🌍 WordPress + Docker
+# 🌍 WordPress & Docker
 
-También he creado **varias páginas web utilizando WordPress**.
+También he trabajado con **WordPress**, creando y configurando diferentes páginas web.
 
-Además, he trabajado con **Docker** para montar los entornos necesarios y ejecutar servicios relacionados con las páginas.
+Además, he utilizado **Docker** para trabajar con entornos donde se ejecutan los diferentes servicios necesarios para una página web.
 
-He tenido contacto con:
+Durante estas prácticas he aprendido conceptos como:
 
-* 📰 Creación y configuración de sitios WordPress.
-* 🎨 Personalización de páginas.
-* 🔌 Plugins y temas.
-* 🗄️ WordPress + MySQL.
-* 🐳 Contenedores Docker.
-* ⚙️ Configuración básica de entornos.
-* 🔗 Comunicación entre diferentes servicios.
+* Instalación y configuración de WordPress.
+* Creación y personalización de páginas.
+* Gestión de contenidos.
+* Uso de temas y plugins.
+* Configuración básica de sitios web.
+* Uso de contenedores Docker.
+* Trabajo con servicios como WordPress y MySQL.
+* Comprensión básica de cómo se conectan los diferentes servicios.
 
-Esto me ha permitido conocer una parte diferente del desarrollo web: no solamente escribir código, sino también **poner en funcionamiento las aplicaciones y sus servicios**.
+Esto me ha permitido conocer un poco más la parte de **despliegue y administración de aplicaciones web**, además del desarrollo.
 
 ---
 
-# 🛠️ Mi Stack
+# 🛠️ Tecnologías
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,java,php,python,mysql,docker,wordpress,git,github,vscode" />
@@ -189,127 +189,76 @@ Esto me ha permitido conocer una parte diferente del desarrollo web: no solament
 
 ---
 
-# 📈 Mi progreso
+## 📚 Lo que estoy aprendiendo
 
 ```text
-HTML        █████████░░  Aprendiendo
-CSS         ████████░░░  Aprendiendo
-JavaScript  ██████░░░░░  Aprendiendo
-Java        ██████░░░░░  Aprendiendo
-PHP         █████░░░░░░  Aprendiendo
-Python      █████░░░░░░  Aprendiendo
-MySQL       ███████░░░░  Aprendiendo
-WordPress   ███████░░░░  Aprendiendo
-Docker      █████░░░░░░  Aprendiendo
-Git         ██████░░░░░  Aprendiendo
+HTML        █████████░  90%
+CSS         ████████░░  80%
+JavaScript  ██████░░░░  60%
+Java        ██████░░░░  60%
+PHP         █████░░░░░  50%
+Python      █████░░░░░  50%
+MySQL       ███████░░░  70%
+WordPress   ███████░░░  70%
+Docker      █████░░░░░  50%
 ```
 
-> 📌 Las barras representan mi experiencia actual dentro de lo que he trabajado durante mis estudios, no niveles profesionales.
+> ⚠️ Estos porcentajes representan aproximadamente los conceptos que he trabajado hasta ahora, no un nivel profesional.
 
 ---
 
-# 🚀 Proyectos
+# 🚀 Actualmente
 
-Actualmente estoy creando pequeños proyectos para practicar todo lo que voy aprendiendo.
+🎓 Estudiando **Grado Superior en Desarrollo de Aplicaciones Web**
 
-### 🌐 Páginas Web
+🌐 Mejorando mis conocimientos de desarrollo web.
 
-Proyectos realizados utilizando:
+⚡ Aprendiendo JavaScript y programación frontend.
 
-**HTML + CSS + JavaScript**
+☕ Profundizando en Java y lógica de programación.
 
-> Diseño, estructura, formularios, navegación e interacción.
+🐘 Aprendiendo PHP y conceptos de backend.
 
-### 🗄️ Bases de Datos
+🐍 Experimentando con Python.
 
-Ejercicios y proyectos utilizando:
+🗄️ Trabajando con bases de datos y consultas SQL.
 
-**MySQL + SQL**
+🐳 Aprendiendo a utilizar Docker y entornos de desarrollo.
 
-> Creación de tablas, relaciones y consultas.
-
-### 🌍 WordPress
-
-Páginas web creadas utilizando:
-
-**WordPress + MySQL + Docker**
-
-> Configuración de sitios y entornos de desarrollo.
-
-### ☕ Programación
-
-Ejercicios realizados con:
-
-**Java + Python + PHP**
-
-> Lógica de programación, variables, funciones, condiciones y estructuras de control.
+🌍 Creando páginas con WordPress.
 
 ---
 
-# 🎯 Actualmente...
+# 🎯 Mi objetivo
+
+Mi objetivo es seguir aprendiendo y conseguir transformar poco a poco mis conocimientos en **proyectos reales**.
+
+Quiero seguir mejorando tanto en frontend como en backend y aprender nuevas tecnologías que me permitan desarrollar aplicaciones web completas.
 
 ```text
-🎓 Estudiando DAW
-        ↓
-🌐 Mejorando HTML & CSS
-        ↓
-⚡ Aprendiendo JavaScript
-        ↓
-☕ Mejorando Java
-        ↓
-🐘 Explorando PHP
-        ↓
-🐍 Practicando Python
-        ↓
-🗄️ Trabajando con MySQL
-        ↓
-🐳 Experimentando con Docker
-        ↓
-🚀 CREANDO PROYECTOS
+        LEARNING
+           ↓
+        PRACTICE
+           ↓
+        PROJECTS
+           ↓
+        EXPERIENCE
+           ↓
+        🚀
 ```
 
 ---
 
-# 🔮 ¿Qué quiero aprender?
+## 📂 Próximamente...
 
-Hay muchas tecnologías que quiero ir descubriendo a medida que avance:
+Estoy trabajando para ir subiendo nuevos proyectos a GitHub y poder enseñar mi evolución durante el ciclo.
 
-* ⚛️ React
-* 🟢 Node.js
-* 🔐 APIs y autenticación
-* 🐳 Docker a un nivel más avanzado
-* 🗄️ Bases de datos más avanzadas
-* ☁️ Despliegue de aplicaciones
-* 🚀 Desarrollo de proyectos completos
-
----
-
-# 🐍 My contributions
-
-![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
-
----
-
-# 📊 GitHub
-
-![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO\&layout=compact\&theme=tokyonight)
-
----
-
-# 💡 Mi objetivo
-
-> **Aprender → Practicar → Crear → Equivocarme → Mejorar → Repetir.**
-
-Quiero seguir aprendiendo durante el ciclo, crear proyectos cada vez más completos y convertir todo lo que estoy estudiando en **proyectos reales que pueda enseñar**.
+**Este perfil irá creciendo conmigo.** 🚀
 
 ---
 
 <p align="center">
-
-### 💻 Code • Learn • Build • Repeat
-
-⭐ **Gracias por visitar mi perfil** ⭐
-
+  <b>💻 Code • Learn • Build • Repeat</b>
+  <br><br>
+  ⭐ Gracias por visitar mi perfil ⭐
 </p>
