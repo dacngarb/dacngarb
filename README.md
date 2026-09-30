@@ -1,223 +1,153 @@
-# `> Hello, World! 👋`
+# 👋 ¡Buenas!
 
-<img align="right" src="https://github.com/user-attachments/assets/e13c32ca-1fc5-4f31-a566-afe9539b0dd6" width="280">
+## Soy David Cantero García
 
-## I'm David Cantero García
+🎓 Estudiante de **Desarrollo de Aplicaciones Web (DAW)**
+💻 Aprendiendo a programar y crear páginas web
+🇪🇸 España
 
-**🎓 DAW Student · 💻 Web Developer in progress · 🇪🇸 Spain**
-
-```js
-const david = {
-    role: "Web Developer Student",
-    studying: "Desarrollo de Aplicaciones Web",
-    currentlyLearning: [
-        "JavaScript",
-        "Java",
-        "PHP",
-        "Python",
-        "MySQL"
-    ],
-    tools: [
-        "Git",
-        "Docker",
-        "WordPress"
-    ],
-    goal: "Build cool things 🚀"
-};
-```
-
-<br clear="right"/>
+<img src="https://github.com/user-attachments/assets/e13c32ca-1fc5-4f31-a566-afe9539b0dd6" width="100%">
 
 ---
 
-## 🧠 About me
+## 🧑‍💻 Un poco sobre mí
 
-Soy estudiante de **Grado Superior en Desarrollo de Aplicaciones Web (DAW)**.
+Actualmente estoy estudiando **DAW**, donde estoy descubriendo diferentes partes del desarrollo de software.
 
-Estoy aprendiendo a construir aplicaciones desde diferentes partes del stack: desde la interfaz que ve el usuario hasta la lógica del servidor y las bases de datos.
+Empecé creando páginas sencillas con **HTML y CSS** y poco a poco he ido metiéndome en programación, bases de datos, backend y herramientas como Docker.
 
-Me gusta **aprender haciendo**, experimentar con nuevas tecnologías y convertir los ejercicios del ciclo en pequeños proyectos.
+Todavía estoy aprendiendo, pero ya he tenido la oportunidad de crear diferentes proyectos y experimentar con varias tecnologías.
 
 ---
 
-## ⚡ What I know
+## 🌐 Lo que más estoy tocando
 
-### 🌐 Frontend
+### HTML + CSS + JavaScript
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js" />
-</p>
+Mis primeros pasos fueron creando páginas web desde cero.
 
-**HTML** → estructura y semántica
-**CSS** → diseño, estilos, Flexbox y responsive
-**JavaScript** → lógica, eventos, DOM y formularios
+He trabajado con:
+
+`HTML` · `CSS` · `Flexbox` · `Responsive Design` · `JavaScript` · `DOM` · `Eventos` · `Formularios`
 
 ![CoolWebsiteBroImpressedGIF](https://github.com/user-attachments/assets/b298894d-3445-4f06-a34d-229a326d5405)
 
 ---
 
-### ⚙️ Backend & Programming
+### ☕ Java
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,php,python" />
-</p>
+Estoy aprendiendo Java para mejorar mi lógica de programación.
 
-Estoy construyendo mis bases de programación trabajando con:
+Por ahora he trabajado con variables, operadores, condiciones, bucles, arrays, métodos y conceptos iniciales de programación orientada a objetos.
 
-`Variables` · `Condiciones` · `Bucles` · `Funciones` · `Arrays` · `POO`
-
-También estoy empezando a conectar la programación con aplicaciones web mediante **PHP**.
+![ProgrammLoadingInProgressGIF](https://github.com/user-attachments/assets/aaf4ad42-3b93-4fae-8b30-c3ac3bc05e62)
 
 ---
 
-### 🗄️ Databases
+### 🐘 PHP & 🐍 Python
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql" />
-</p>
+También estoy empezando a trabajar con **PHP y Python**.
 
-Actualmente trabajando con **MySQL y SQL**.
+Con ellos estoy practicando principalmente:
+
+```text
+Variables
+Condiciones
+Bucles
+Funciones
+Arrays
+Entrada y salida de datos
+Lógica de programación
+```
+
+En PHP, además, estoy empezando a conocer la parte del **backend y el procesamiento de formularios**.
+
+---
+
+# 🗄️ MySQL
+
+Aquí ya empezamos a entrar en una parte bastante importante de DAW.
+
+He trabajado con bases de datos relacionales utilizando **MySQL**, creando tablas y realizando diferentes consultas SQL.
+
+Por ejemplo:
 
 ```sql
-CREATE TABLE proyectos (
-    id INT PRIMARY KEY AUTO_INCREMENT,
-    nombre VARCHAR(100),
-    tecnologia VARCHAR(50)
-);
-
-SELECT *
-FROM proyectos
-WHERE tecnologia = 'Web'
-ORDER BY nombre;
+SELECT nombre, apellido
+FROM alumnos
+WHERE curso = 'DAW'
+ORDER BY apellido;
 ```
 
-📌 Consultas · Tablas · Relaciones · Claves primarias · Claves foráneas · `JOIN` · `GROUP BY` · CRUD
+También estoy trabajando con:
+
+**SELECT · INSERT · UPDATE · DELETE · WHERE · ORDER BY · GROUP BY · JOIN**
+
+Además de conceptos como:
+
+🔑 Claves primarias
+🔗 Claves foráneas
+📋 Relaciones entre tablas
+🧩 Bases de datos relacionales
 
 ---
 
-## 🐳 WordPress + Docker
+# 🌍 WordPress + Docker
 
-Una de las cosas que también he trabajado durante mis estudios es la creación de **sitios WordPress utilizando entornos Docker**.
+También he creado **varias páginas web con WordPress**.
 
-```text
-┌───────────────┐
-│   WORDPRESS   │
-└───────┬───────┘
-        │
-        ▼
-┌───────────────┐
-│     MySQL     │
-└───────────────┘
-        │
-        ▼
-    🐳 Docker
-```
+Para trabajar con ellas he utilizado **Docker**, creando entornos donde puedo ejecutar los servicios necesarios para WordPress y su base de datos.
 
-He creado varias páginas utilizando WordPress y he trabajado con la configuración básica del entorno, bases de datos y servicios mediante contenedores.
+Esto me ha permitido conocer algo más que simplemente escribir código:
+
+**crear → configurar → ejecutar → probar**
 
 ---
 
-# 🚧 Currently Building
-
-```text
-████████████████████░░░░  80%
-
-Learning DAW...
-```
-
-### 📚 Ahora mismo estoy centrado en:
-
-* ⚡ Mejorar JavaScript
-* ☕ Seguir aprendiendo Java
-* 🐘 Aprender PHP
-* 🐍 Practicar Python
-* 🗄️ Mejorar SQL
-* 🐳 Entender mejor Docker
-* 🌐 Crear proyectos web
-
----
-
-# 🚀 My roadmap
-
-```text
-HTML / CSS
-    │
-    ▼
-JavaScript ────────┐
-    │              │
-    ▼              ▼
-Frontend         Backend
-    │              │
-    └──────┬───────┘
-           ▼
-        MySQL
-           │
-           ▼
-       Docker
-           │
-           ▼
-     🚀 FULL STACK
-```
-
----
-
-# 📂 Projects
-
-> Esta sección irá creciendo conforme vaya creando proyectos.
-
-| Proyecto            | Tecnologías                | Estado           |
-| ------------------- | -------------------------- | ---------------- |
-| 🌐 Web Projects     | HTML · CSS · JS            | 🟢 En desarrollo |
-| 🗄️ SQL Projects    | MySQL                      | 🟢 En desarrollo |
-| ☕ Java Projects     | Java                       | 🟢 Aprendiendo   |
-| 🌍 WordPress Sites  | WordPress · Docker · MySQL | 🟢 Realizados    |
-| 🐘 Backend Projects | PHP                        | 🟡 Aprendiendo   |
-
----
-
-# 🧰 Toolbox
+# 🛠️ Tecnologías
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,java,php,python,mysql,docker,wordpress,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,java,php,python,mysql,docker,wordpress,git,github,vscode">
 </p>
 
 ---
 
-# 📊 GitHub
+# 📁 Lo que encontrarás por aquí
 
-<p align="center">
+Este GitHub va a ser básicamente mi **diario de aprendizaje**.
 
-<img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" />
+Aquí iré subiendo:
 
-</p>
+🌐 Páginas web
+☕ Programas en Java
+🐍 Ejercicios de Python
+🐘 Proyectos PHP
+🗄️ Bases de datos SQL
+🌍 Proyectos WordPress
+🐳 Prácticas con Docker
 
----
-
-## 🎯 2026 Goals
-
-* [ ] 🚀 Crear mi primer proyecto web completo
-* [ ] ⚡ Mejorar JavaScript
-* [ ] 🗄️ Mejorar mis conocimientos de SQL
-* [ ] 🐘 Crear proyectos con PHP
-* [ ] 🐳 Aprender Docker más a fondo
-* [ ] 🌐 Crear un portfolio personal
-* [ ] 📂 Subir más proyectos a GitHub
-* [ ] 💡 Seguir aprendiendo
+Algunos proyectos serán sencillos y otros irán creciendo conmigo.
 
 ---
 
-```text
-┌─────────────────────────────────────────────┐
-│                                             │
-│   "The best way to learn is to build."     │
-│                                             │
-└─────────────────────────────────────────────┘
-```
+## 🚀 ¿Y ahora qué?
+
+Seguir aprendiendo.
+
+Quiero ir pasando de pequeños ejercicios a proyectos cada vez más completos, juntando todo lo que estoy aprendiendo:
+
+**Frontend + Backend + Bases de datos + Docker**
+
+Y, sobre todo, ir viendo cómo cambia este perfil dentro de unos meses.
+
+---
 
 <p align="center">
 
-### 💻 Code. Learn. Build. Repeat.
+### 👀 Si has llegado hasta aquí...
 
-**Thanks for visiting my profile! ⭐**
+**Gracias por pasarte por mi GitHub.**
+
+⭐ Seguro que este perfil tendrá bastante más código la próxima vez que vuelvas.
 
 </p>
