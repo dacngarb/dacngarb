@@ -49,7 +49,7 @@ JavaScript  ██████░░░░
 
 ## 🗄️ También trabajo con...
 
-**PHP** → Backend y procesamiento de datos
+**PHP** → Backend y procesamiento de datos<br>
 **MySQL** → Tablas, relaciones y consultas SQL
 **Java** → Programación y lógica
 **Python** → Fundamentos y pequeños programas
