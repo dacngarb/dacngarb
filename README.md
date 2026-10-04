@@ -50,10 +50,10 @@ JavaScript  ██████░░░░
 ## 🗄️ También trabajo con...
 
 **PHP** → Backend y procesamiento de datos<br>
-**MySQL** → Tablas, relaciones y consultas SQL
-**Java** → Programación y lógica
-**Python** → Fundamentos y pequeños programas
-**WordPress + Docker** → Creación y configuración de sitios web
+**MySQL** → Tablas, relaciones y consultas SQL<br>
+**Java** → Programación y lógica<br>
+**Python** → Fundamentos y pequeños programas<br>
+**WordPress + Docker** → Creación y configuración de sitios web<br>
 
 ---
 
