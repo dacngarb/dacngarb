@@ -1,184 +1,93 @@
-<!-- HEADER -->
+# 👋 ¡Hola! Soy David Cantero García
 
-<div align="center">
+### 💻 Estudiante de DAW · Futuro desarrollador web
 
-# 🔴 DAVID CANTERO GARCÍA
-
-### `DAW Student` · `Web Development` · `Always Learning`
-
-<img src="https://github.com/user-attachments/assets/e13c32ca-1fc5-4f31-a566-afe9539b0dd6" width="520">
-
-<br>
-
-**💻 Construyendo cosas · 🧠 Aprendiendo · 🚀 Mejorando**
-
-</div>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e13c32ca-1fc5-4f31-a566-afe9539b0dd6" width="500">
+</p>
 
 ---
 
-## 🔥 SOBRE MÍ
+## 🧑‍💻 Sobre mí
 
-> 🎓 Estudiante de **Desarrollo de Aplicaciones Web (DAW)**
-> 🌐 Me interesa el desarrollo web y la programación
-> 🧩 Aprendiendo nuevas tecnologías mediante prácticas y proyectos
-> 🚀 Mi objetivo: convertir lo que aprendo en proyectos reales
+🎓 Estudiante de **Grado Superior en Desarrollo de Aplicaciones Web (DAW)**.
 
----
+🌐 Actualmente aprendiendo **desarrollo web, programación y bases de datos**.
 
-<div align="center">
-
-### ⚡ MI STACK
-
-<img src="https://skillicons.dev/icons?i=html,css,js,php,java,python,mysql,docker,wordpress,git,github,vscode&theme=dark">
-
-</div>
+🚀 Me gusta aprender haciendo proyectos y descubrir nuevas tecnologías.
 
 ---
 
-## 🔴 AHORA MISMO
+## ⚡ Lo que estoy aprendiendo
 
-<div align="center">
-
-|     🌐 DWEC     | 🐘 DWES |   🐍 Python  |
-| :-------------: | :-----: | :----------: |
-| HTML · CSS · JS |   PHP   | Programación |
-
-| ☕ Java | 🗄️ MySQL | 🐳 Docker |
-| :----: | :-------: | :-------: |
-| Lógica |    SQL    |  Entornos |
-
-</div>
-
----
-
-## 💻 DESARROLLO WEB
-
-### `HTML` `CSS` `JavaScript`
-
-Estoy construyendo mis bases en frontend:
-
-**HTML** → estructura
-**CSS** → diseño
-**JavaScript** → interacción
-
-<img src="https://github.com/user-attachments/assets/b298894d-3445-4f06-a34d-229a326d5405" width="380">
+| Tecnología        | ¿Qué estoy haciendo?            |
+| ----------------- | ------------------------------- |
+| 🧱 **HTML & CSS** | Creando y diseñando páginas web |
+| ⚡ **JavaScript**  | Añadiendo lógica e interacción  |
+| 🐘 **PHP**        | Desarrollo web en servidor      |
+| ☕ **Java**        | Programación y lógica           |
+| 🐍 **Python**     | Fundamentos de programación     |
+| 🗄️ **MySQL**     | Bases de datos y SQL            |
+| 🐳 **Docker**     | Entornos y servicios            |
+| 🌍 **WordPress**  | Creación de páginas web         |
 
 ---
 
-## 🐘 BACKEND
+## 🌐 Desarrollo Web
 
-### `PHP`
-
-Aprendiendo a trabajar con el **lado servidor** y a crear aplicaciones web dinámicas.
+Actualmente estoy especialmente centrado en **HTML, CSS y JavaScript**.
 
 ```text
-PHP
- ├── Variables
- ├── Condicionales
- ├── Bucles
- ├── Funciones
- └── Formularios
+HTML        █████████░
+CSS         ████████░░
+JavaScript  ██████░░░░
 ```
 
----
-
-## 🧠 PROGRAMACIÓN
-
-### ☕ Java · 🐍 Python
-
-Dos lenguajes con los que estoy mejorando mi **lógica de programación** y aprendiendo a resolver problemas mediante código.
-
-<img src="https://github.com/user-attachments/assets/aaf4ad42-3b93-4fae-8b30-c3ac3bc05e62" width="380">
+![CoolWebsiteBroImpressedGIF](https://github.com/user-attachments/assets/b298894d-3445-4f06-a34d-229a326d5405)
 
 ---
 
-## 🗄️ BASES DE DATOS
+## 🗄️ También trabajo con...
 
-### `MySQL`
-
-También estoy aprendiendo a trabajar con bases de datos:
-
-`SELECT` · `INSERT` · `UPDATE` · `DELETE` · `JOIN`
-
-Y conceptos como:
-
-**Tablas · Relaciones · Claves primarias · Claves foráneas**
+**PHP** → Backend y procesamiento de datos
+**MySQL** → Tablas, relaciones y consultas SQL
+**Java** → Programación y lógica
+**Python** → Fundamentos y pequeños programas
+**WordPress + Docker** → Creación y configuración de sitios web
 
 ---
 
-## 🐳 COSAS QUE TAMBIÉN HE TOCADO
+## 🛠️ Tecnologías
 
-<div align="center">
-
-### 🌍 WordPress
-
-Creación y configuración de páginas web.
-
-### 🐳 Docker
-
-Trabajando con contenedores y servicios.
-
-### 🔧 Git & GitHub
-
-Control de versiones y gestión de proyectos.
-
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,php,python,mysql,docker,wordpress,git,github,vscode" />
+</p>
 
 ---
 
-# 🚀 MI EVOLUCIÓN
+## 🚀 Ahora mismo...
 
-```text
-HTML + CSS
-     │
-     ▼
-JavaScript
-     │
-     ▼
-Java + Python
-     │
-     ▼
-PHP
-     │
-     ▼
-MySQL
-     │
-     ▼
-      🚀
-```
+> 🎓 **DAW**
+> 🌐 **Desarrollo Web**
+> ⚡ **JavaScript**
+> 🐘 **PHP**
+> 🗄️ **MySQL**
+> 🐍 **Python**
 
-**Y esto acaba de empezar.**
+Estoy construyendo poco a poco mi camino como desarrollador web.
 
 ---
 
-## 📂 PROYECTOS
+## 📂 Mis proyectos
 
-<div align="center">
+🚧 **En construcción...**
 
-🚧 **Estoy construyendo mi portfolio...**
-
-Aquí irán apareciendo mis proyectos, prácticas y experimentos.
-
-<br>
-
-<a href="https://github.com/">
-  <img src="https://img.shields.io/badge/VER%20MIS%20REPOSITORIOS-111111?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-</div>
+Aquí iré subiendo mis prácticas, proyectos y experimentos realizados durante el ciclo.
 
 ---
 
-<div align="center">
-
-## 🔴 `CODE → LEARN → BUILD → REPEAT`
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=html,css,js,php,java,python,mysql&theme=dark">
-
-<br><br>
-
-**Gracias por visitar mi perfil. 👋**
-
-</div>
+<p align="center">
+  <b>💻 Aprender → Practicar → Crear → Repetir</b>
+  <br><br>
+  ⭐ Gracias por pasarte por aquí
+</p>
