@@ -71,7 +71,7 @@ JavaScript  ██████░░░░
 > 🌐 **Desarrollo Web**
 > ⚡ **JavaScript**
 > 🐘 **PHP**
-> 🗄️ **MySQL**
+> 🗄️ **HTML**
 > 🐍 **Python**
 
 Estoy construyendo poco a poco mi camino como desarrollador web.
